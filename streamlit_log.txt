@@ -1,0 +1,83 @@
+
+Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+
+2026-07-18 08:58:20.799 Uvicorn server started on :::8501
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://192.168.0.219:8501
+  External URL: http://103.121.15.51:8501
+
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> Status: RUNNING, Message: 
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:37.843Z [33mACTOR: [39mPulling container image of build jBjKxs16XeK3lOiXE from registry.
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:37.845Z [33mACTOR: [39mCreating container.
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:37.878Z [33mACTOR: [39mStarting container.
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:37.880Z [33mACTOR: [39mRunning under "LIMITED_PERMISSIONS".
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:38.744Z
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:38.746Z > linkedin-jobs-scraper@1.0.0 start
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:38.748Z > node src/main.js
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:38.750Z
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:39.730Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.2","apifyClientVersion":"2.21.0","crawleeVersion":"3.15.3","osType":"Linux","nodeVersion":"v20.19.6"}[39m
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:39.739Z \U0001f680 LinkedIn Jobs Scraper Pro - Starting...
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:39.836Z \U0001f4cb Searching for: "Full Stack Developer, MERN Stack Engineer, Software Engineer (Full Stack)" in "Bangladesh"
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:39.838Z \U0001f4ca Target: 50 jobs starting from offset 0
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:39.876Z \U0001f4e1 Fetching jobs from offset 0...
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:40.438Z \U0001f4e5 Found 10 jobs at offset 0
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:40.759Z \u2705 [1/50] Software Developer (Full Stack - JavaScript, React.js, Next.js, Node.js) - (For Naturo)-Job ID: 1507411 at Bdjobs.com
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:40.782Z \u2705 [2/50] We’re Looking For MERN Stack Developers! at Impala Intech - Software Development Agency
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:40.792Z \u2705 [3/50] Software Engineer at Neufast
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:40.818Z \u2705 [4/50] Software Engineer (Fullstack) at Portonics Limited
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:40.843Z \u2705 [5/50] Mid-Level Full Stack Software Engineer - For Indetechs Software Limited.- Job ID: 1499031 at Bdjobs.com
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:41.552Z \u2705 [6/50] Software Engineer at Field Nation
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:41.582Z \u2705 [7/50] Full Stack Software Engineer - Affiliate Platform (AI-Accelerated Development) at NEXT Ventures
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:41.604Z \u2705 [8/50] Software Engineer (Frontend) at Polygon Technology
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:41.626Z \u2705 [9/50] Full Stack Developer - (For A Reputed Company) - Job ID - 1490094 at Bdjobs.com
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:41.652Z \u2705 [10/50] Software Engineer (Laravel or MERN Stack) at Dessein LAB
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:43.154Z \U0001f4e1 Fetching jobs from offset 25...
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:43.336Z \U0001f4ed No more jobs found. Ending scrape.
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:43.338Z \U0001f389 LinkedIn Jobs Scraper Pro - Completed!
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> 2026-07-18T03:06:43.339Z \U0001f4ca Results: 10 jobs scraped successfully
+[36m[apify.linkedin-jobs-scraper-free-trial runId:j9KVugKb8JU2w1GEQ][0m -> Status: SUCCEEDED, Message: 
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> Status: RUNNING, Message: 
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:20.893Z [33mACTOR: [39mPulling container image of build jBjKxs16XeK3lOiXE from registry.
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:20.895Z [33mACTOR: [39mCreating container.
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:20.924Z [33mACTOR: [39mStarting container.
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:20.925Z [33mACTOR: [39mRunning under "LIMITED_PERMISSIONS".
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:21.242Z
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:21.243Z > linkedin-jobs-scraper@1.0.0 start
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:21.243Z > node src/main.js
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:21.244Z
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:21.700Z [32mINFO[39m  System info[90m {"apifyVersion":"3.5.2","apifyClientVersion":"2.21.0","crawleeVersion":"3.15.3","osType":"Linux","nodeVersion":"v20.19.6"}[39m
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:21.708Z \U0001f680 LinkedIn Jobs Scraper Pro - Starting...
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:21.815Z \U0001f4cb Searching for: "Full Stack Engineer, MERN Stack Developer, Software Engineer" in "Bangladesh"
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:21.816Z \U0001f4ca Target: 50 jobs starting from offset 0
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:21.849Z \U0001f4e1 Fetching jobs from offset 0...
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:22.082Z \U0001f4ed No more jobs found. Ending scrape.
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:22.082Z \U0001f389 LinkedIn Jobs Scraper Pro - Completed!
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> 2026-07-18T03:07:22.083Z \U0001f4ca Results: 0 jobs scraped successfully
+[36m[apify.linkedin-jobs-scraper-free-trial runId:Yw5x95iV9MccZg8KG][0m -> Status: SUCCEEDED, Message: 
+2026-07-18 09:34:22.993 Uncaught app execution
+Traceback (most recent call last):
+  File "C:\Users\fahim\Downloads\New folder (2)\aifinalproject\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py", line 129, in exec_func_with_error_handling
+    result = func()
+  File "C:\Users\fahim\Downloads\New folder (2)\aifinalproject\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 795, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fahim\Downloads\New folder (2)\aifinalproject\main.py", line 6, in <module>
+    from auth import (
+    ...<5 lines>...
+    )
+ImportError: cannot import name 'create_session' from 'auth' (C:\Users\fahim\Downloads\New folder (2)\aifinalproject\auth.py)
+2026-07-18 09:35:19.673 Uncaught app execution
+Traceback (most recent call last):
+  File "C:\Users\fahim\Downloads\New folder (2)\aifinalproject\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\exec_code.py", line 129, in exec_func_with_error_handling
+    result = func()
+  File "C:\Users\fahim\Downloads\New folder (2)\aifinalproject\.venv\Lib\site-packages\streamlit\runtime\scriptrunner\script_runner.py", line 795, in code_to_exec
+    exec(code, module.__dict__)  # noqa: S102
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\fahim\Downloads\New folder (2)\aifinalproject\main.py", line 6, in <module>
+    from auth import (
+    ...<5 lines>...
+    )
+ImportError: cannot import name 'create_session' from 'auth' (C:\Users\fahim\Downloads\New folder (2)\aifinalproject\auth.py)
